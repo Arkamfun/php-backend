@@ -1,7 +1,7 @@
 
 # PHP Backend
 
-This project was created as a form of test results made by HNI (Halal Network International) whose test content is to create CRUD using node.JS /HP.
+This project was created as a form of test results made by HNI (Halal Network International) whose test content is to create CRUD using node.JS /PHP.
 
 
 
