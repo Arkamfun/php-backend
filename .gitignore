@@ -1,0 +1,8 @@
+# Folder yang tidak perlu diupload
+node_modules/
+vendor/
+.env
+docker-compose.override.yml
+
+# File sistem Docker yang tidak penting
+docker.logs
